@@ -9,7 +9,7 @@
 	</head>
 	<body id="main">
 		<div id="essai">
-			***
+			
 		</div>
 	</body>
 	<script>
