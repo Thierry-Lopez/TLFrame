@@ -87,6 +87,8 @@
 
 		} )();
 		
+		document.write( '<script src="' + TLFrame.getUrl( 'class/loader.js' ) + '"></script>' );
+		
 		
 		
 			
