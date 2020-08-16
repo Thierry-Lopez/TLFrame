@@ -61,7 +61,8 @@
 	TLFrame.loading = new TLFrame.Loader();
 	
 	TLFrame.loading.scripts = {
-		'content' : ['element']
+		'content' : ['element'],
+		'text_aera' : ['element']
 	};
 	
 	TLFrame.loading.loadScripts();
