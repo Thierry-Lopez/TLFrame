@@ -58,13 +58,13 @@
 	
 	TLFrame.Loader = TLFrameLoader;
 	
-	const TLFrameLoading = new TLFrame.Loader();
+	TLFrame.loading = new TLFrame.Loader();
 	
-	TLFrameLoading.scripts = {
+	TLFrame.loading.scripts = {
 		'content' : ['element']
 	};
 	
-	TLFrameLoading.loadScripts();
+	TLFrame.loading.loadScripts();
 	
 	
 	
